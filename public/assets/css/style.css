@@ -1,0 +1,25 @@
+.heder-top{
+  background-color: rgb(38, 114, 54);
+}
+.navbar{
+  color: white;
+}
+
+.shop{
+  padding-left: 50px;
+  width: 100%;
+  height: 150px;
+  background-color: rgb(38, 114, 54);
+}
+
+.main{
+  background-color: rgb(242, 234, 234);
+}
+.card-body{
+  background-color: rgb(242, 234, 234);
+
+}
+h1{
+  padding-left: 100px;
+}
+
